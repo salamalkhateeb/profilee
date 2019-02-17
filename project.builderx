@@ -1,0 +1,32 @@
+{
+    "artboards": [
+        "/src/screens/Home.js",
+        "/src/screens/Login.js",
+        "/src/screens/SignUp.js",
+        "/src/screens/Untitled.js"
+    ],
+    "symbols": [
+        "/src/symbols/Buttonlogin.js",
+        "/src/symbols/Login.js",
+        "/src/symbols/Password.js",
+        "/src/symbols/Signin.js",
+        "/src/symbols/UntitledSymbol.js",
+        "/src/symbols/UntitledSymbol1.js",
+        "/src/symbols/Username.js",
+        "/src/symbols/button10.js",
+        "/src/symbols/card1.js",
+        "/src/symbols/button13.js",
+        "/src/symbols/button131.js"
+    ],
+    "assets": [],
+    "defaultArtboardDirectory": "/src/screens",
+    "defaultSymbolDirectory": "/src/symbols",
+    "defaultAssetDirectory": "/src/assets",
+    "deviceName": "iPhone X",
+    "deviceOrientation": "portrait",
+    "basePath": "/Users/student/Downloads/salamAlkhateeb",
+    "tempPath": "/var/folders/gm/6jw5bdzj0z14k4r92k7hsmp00000gp/T/BuilderHOBSGO2",
+    "useStylesheet": true,
+    "rulers": {},
+    "missingFonts": []
+}
